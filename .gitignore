@@ -1,0 +1,8 @@
+Debug/
+Release/
+settings/
+*.dep
+*.ewt
+Backup*
+.DS_Store
+Thumbs.db

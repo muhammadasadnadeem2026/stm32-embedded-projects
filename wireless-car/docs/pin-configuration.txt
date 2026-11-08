@@ -1,0 +1,58 @@
+/* Rows */
+/* Row 1 default */
+
+#define KEYPAD_ROW_1_PORT			GPIOB
+#define KEYPAD_ROW_1_PIN			GPIO_PIN_15
+
+/* Row 2 default */
+
+#define KEYPAD_ROW_2_PORT			GPIOB
+#define KEYPAD_ROW_2_PIN			GPIO_PIN_13
+
+/* Row 3 default */
+
+#define KEYPAD_ROW_3_PORT			GPIOB
+#define KEYPAD_ROW_3_PIN			GPIO_PIN_11
+
+/* Row 4 default */
+
+#define KEYPAD_ROW_4_PORT			GPIOE
+#define KEYPAD_ROW_4_PIN			GPIO_PIN_15
+
+
+/* Columns */
+/* Column 1 default */
+
+#define KEYPAD_COLUMN_1_PORT		GPIOE
+#define KEYPAD_COLUMN_1_PIN			GPIO_PIN_13
+
+/* Column 2 default */
+
+#define KEYPAD_COLUMN_2_PORT		GPIOE
+#define KEYPAD_COLUMN_2_PIN			GPIO_PIN_11
+
+/* Column 3 default */
+
+#define KEYPAD_COLUMN_3_PORT		GPIOE
+#define KEYPAD_COLUMN_3_PIN			GPIO_PIN_9
+
+/* Column 4 default */
+
+#define KEYPAD_COLUMN_4_PORT		GPIOE
+#define KEYPAD_COLUMN_4_PIN			GPIO_PIN_7
+  
+PIN CONFIGURATION OF KEYPAD 4X4 with stm32f4:
+
+//////////ROWS///////////
+R1
+R2
+R3
+R4
+
+/////////COLUMNS/////////
+C1
+C2
+C3
+C4
+
+
